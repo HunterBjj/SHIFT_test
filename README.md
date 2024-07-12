@@ -1,5 +1,4 @@
-# <p align="center"> ![image](https://github.com/user-attachments/assets/717756e2-8f08-4c81-8dd4-5a3b2722c820)
- </p>
+# <p align="center"> ![image](https://github.com/user-attachments/assets/717756e2-8f08-4c81-8dd4-5a3b2722c820) </p>
 ## Тестовое задание. Курс JAVA.
 # Описание задачи
 Утилита фильтрации содержимого файлов.
